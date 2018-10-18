@@ -36,3 +36,5 @@ fields:
   type: text
   hidden: true
   default: person
+pages:
+- _people/My folder/hallo.md
