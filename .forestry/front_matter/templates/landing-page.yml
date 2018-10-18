@@ -80,4 +80,5 @@ fields:
   hidden: true
   default: home
 pages:
+- hello-world.md
 - index.md
